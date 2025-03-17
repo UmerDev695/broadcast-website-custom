@@ -32,4 +32,4 @@ A fully custom broadcast website developed to deliver a unique, responsive, and 
 ---
 
 **More Projects:**  
-Check out my other work on my [GitHub Profile](https://github.com/yourusername)
+Check out my other work on my [GitHub Profile](https://github.com/UmerDev695)
